@@ -1,6 +1,6 @@
-package hw7Q3Abstraction;
+package hw8Q3Abstraction;
 
-public abstract class NursingSchool {
+public abstract class NursingSchool implements LawSchool{
 
 	
 	//abstract method
