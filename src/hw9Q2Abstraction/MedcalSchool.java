@@ -1,6 +1,6 @@
-package hw8Q3Abstraction;
+package hw9Q2Abstraction;
 
-public abstract class MedcalSchool extends NursingSchool{
+public abstract class MedcalSchool extends NursingSchool implements LawSchool{
 	
 	//abstract method
     public abstract void anatomyLab();
@@ -11,4 +11,4 @@ public abstract class MedcalSchool extends NursingSchool{
     	System.out.println("This is BioChemistry Department");
     }
     
-}
+}//21750

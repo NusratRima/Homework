@@ -1,6 +1,6 @@
-package hw8Q3Abstraction;
+package hw9Q2Abstraction;
 
-public abstract class EngeneeringSchool {
+public abstract class EngeneeringSchool extends NYUniversity{
 
 	
 	//abstract method

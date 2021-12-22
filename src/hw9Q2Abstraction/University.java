@@ -1,8 +1,8 @@
-package hw8Q3Abstraction;
+package hw9Q2Abstraction;
 
 
 //this is an interface
-public interface University extends College {
+public interface University extends College, Hospital  {
       
 	
 	   public void classSize();
